@@ -1,16 +1,17 @@
-### Hi there 👋
+# Welcome to my profile 👏
 
-<!--
-**JayMeDotDot/JayMeDotDot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm JayMeDotDot 👻
 
-Here are some ideas to get you started:
+- I'm from China 🇨🇳
+- I’m currently working on the front end 👨‍💻
+- Wechat_ID:JayMeDotDot 💬
+- Email: 810076929@qq.com 📧
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## My State 😂
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayMeDotDot&show_icons=true&title_color=005248&text_color=005248&icon_color=005248&bg_color=30,FF8983,ffa000)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## My skills 🤣
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayMeDotDot&title_color=005248&text_color=005248&layout=compact&bg_color=30,FF8983,ffa000)](https://github.com/anuraghazra/github-readme-stats)
