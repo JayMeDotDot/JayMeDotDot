@@ -3,7 +3,7 @@
 ## I'm JayMeDotDot 👻
 
 - I'm from China 🇨🇳
-- I’m currently working on the front end 👨‍💻
+- I’m a front end developer 👨‍💻
 - Wechat_ID:JayMeDotDot 💬
 - Email: 810076929@qq.com 📧
 
