@@ -5,7 +5,7 @@
 - I'm from China 🇨🇳
 - I’m a front end developer 👨‍💻
 - Wechat_ID:JayMeDotDot 💬
-- Email: 810076929@qq.com 📧
+- Email: jaymedotdot@qq.com 📧
 
 
 ## My State 😂
