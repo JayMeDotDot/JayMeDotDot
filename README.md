@@ -1,9 +1,9 @@
-# Welcome to my profile 👏
+# Welcome 👏
 
-## I'm JayMeDotDot 👻
+## This is me 👻
 
 - I'm from China 🇨🇳
-- I’m a front end developer 👨‍💻
+- I’m a front-end developer 👨‍💻
 - Wechat_ID:JayMeDotDot 💬
 - Email: jaymedotdot@qq.com 📧
 
